@@ -1,2 +1,2 @@
-# Bug-spray-for-c
+# Bug spray for c
 No more bugs in c code! 
